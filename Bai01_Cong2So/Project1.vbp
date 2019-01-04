@@ -1,7 +1,7 @@
 Type=Exe
-Form=Form22222.frm
+Form=Form2.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\system32\stdole2.tlb#OLE Automation
-Startup="Form1"
+Startup="Form111111"
 Command32=""
 Name="Project1"
 HelpContextID="0"
